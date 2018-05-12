@@ -1,10 +1,14 @@
 _repo: Den-tillforlitligaste-Dromboken-Med-ofwer-100-roliga-figurer_50450
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Berg, Per Gustaf
       gutenberg_agent_id: '45909'
       url: http://www.gutenberg.org/2009/agents/45909
+covers:
+- cover_type: archival
+  image_path: 50450-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50450#Den-tillforlitligaste-Dromboken-Med-ofwer-100-roliga-figurer
 gutenberg_issued: '2015-11-13'
 gutenberg_type: Text
 identifiers:
